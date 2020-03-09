@@ -4,7 +4,7 @@ A simple level plugin for mobs having levels.
 0% progress  
 It's a simple solution to mobs having levels. Each monster has a monster assigned, by default unless you use the notetag to set it.  
 
-Notetags
+Notetags  
 ```<ME_MobLevel: X>```  
 It sets the monster to have this level by default.  
 ```<ME_MaxMobLevel: X>```  
